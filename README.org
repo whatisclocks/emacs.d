@@ -1,1 +1,1 @@
-#+title: Emacs Config
+#+title: Config
